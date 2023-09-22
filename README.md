@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer sciences, Server administration and Apps/Web development
 - 🌱 I’m currently learning Tailwind CSS
 - 💞️ I’m looking to collaborate on any project that may interest me
-- 📫 You can reach me on Discord: Fredo#8489
+- 📫 You can reach me on Discord: _fredo
 
 <!---
 FredoJF/FredoJF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
